@@ -19,3 +19,5 @@ npx webpack
 [Colt Steele's](https://github.com/Colt) Webpack course repo: <https://github.com/hchiam/webpack-demo-app>
 
 ([This repo](https://github.com/hchiam/learning-webpack) was partially created using [`yo hchiam-learning`](https://github.com/hchiam/generator-hchiam-learning))
+
+Remember that loaders run from the bottom up!
