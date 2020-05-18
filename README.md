@@ -20,3 +20,4 @@ npx webpack
 - ([This repo](https://github.com/hchiam/learning-webpack) was partially created using [`yo hchiam-learning`](https://github.com/hchiam/generator-hchiam-learning))
 - Remember that loaders run from the bottom up!
 - And finally, here's a practical example walk-through of using Webpack: <https://github.com/material-components/material-components-web/blob/master/docs/getting-started.md> for using [Material Design Components for the web](https://github.com/hchiam/learning-material-design-components).
+- Tree shaking seems to be on by default, but you can turn it on with `mode: "production",` (note that there's even more you can do to optimize or mark files).
