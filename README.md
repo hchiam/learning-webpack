@@ -9,8 +9,10 @@ npm install webpack webpack-cli --save-dev
 and then
 
 ```bash
-npx webpack
+webpack # or: npx webpack
 ```
+
+creates a `dist` folder with bundled files.
 
 ## Notes
 
