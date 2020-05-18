@@ -19,4 +19,4 @@ npx webpack
 - [Colt Steele's](https://github.com/Colt) Webpack course repo: <https://github.com/hchiam/webpack-demo-app>
 - ([This repo](https://github.com/hchiam/learning-webpack) was partially created using [`yo hchiam-learning`](https://github.com/hchiam/generator-hchiam-learning))
 - Remember that loaders run from the bottom up!
-- And finally, here's a practical example walk-through of using webpack: <https://github.com/material-components/material-components-web/blob/master/docs/getting-started.md>
+- And finally, here's a practical example walk-through of using Webpack: <https://github.com/material-components/material-components-web/blob/master/docs/getting-started.md> for using [Material Design Components for the web](https://github.com/hchiam/learning-material-design-components).
