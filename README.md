@@ -4,6 +4,7 @@ Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
 ```bash
 npm install webpack webpack-cli --save-dev
+touch webpack.config.js
 ```
 
 and then
