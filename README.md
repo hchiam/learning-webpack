@@ -17,6 +17,7 @@ creates a `dist` folder with bundled files.
 
 ## Notes
 
+- 10-minute video summary explanation: <https://www.youtube.com/watch?v=5IG4UmULyoA>
 - <https://webpack.js.org>
 - <https://webpack.js.org/guides/getting-started/>
 - [Colt Steele's](https://github.com/Colt) Webpack course repo: <https://github.com/hchiam/webpack-demo-app>
